@@ -1,3 +1,3 @@
 ## Coin Conversor challenge
 
-CLI for challenger 'Literalura' of Oracle ONE + Alura Education.
+CLI for challenger 'Coin Conversor' of Oracle ONE + Alura Education.
